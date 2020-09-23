@@ -1,4 +1,4 @@
 [submodule "template"]
 	path = template
-	url = git@github.com:zhenik/template.git
+	url = https://github.com/zhenik/template.git
 	branch = master
